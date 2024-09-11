@@ -1,0 +1,1 @@
+2024-08-07 09:01:10.1868 ERROR Something went wrong: The company with id : c9d4c053-49b6-410c-bc78-2d54a9991871, dosen't exist in the DB

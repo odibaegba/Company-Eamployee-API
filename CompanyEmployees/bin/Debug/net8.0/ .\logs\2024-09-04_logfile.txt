@@ -1,0 +1,4 @@
+2024-09-04 10:11:50.1948 ERROR Something went wrong: The method or operation is not implemented.
+2024-09-04 10:21:04.2769 ERROR Something went wrong: Unable to cast object of type 'System.Net.Http.Headers.MediaTypeHeaderValue' to type 'Microsoft.Net.Http.Headers.MediaTypeHeaderValue'.
+2024-09-04 10:23:07.6986 ERROR Something went wrong: Unable to cast object of type 'System.Net.Http.Headers.MediaTypeHeaderValue' to type 'Microsoft.Net.Http.Headers.MediaTypeHeaderValue'.
+2024-09-04 10:26:38.4577 ERROR Something went wrong: Unable to cast object of type 'System.Net.Http.Headers.MediaTypeHeaderValue' to type 'Microsoft.Net.Http.Headers.MediaTypeHeaderValue'.

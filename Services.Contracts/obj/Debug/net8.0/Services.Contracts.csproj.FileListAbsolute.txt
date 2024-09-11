@@ -1,0 +1,17 @@
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/bin/Debug/net8.0/Services.Contracts.deps.json
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/bin/Debug/net8.0/Services.Contracts.dll
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/bin/Debug/net8.0/Services.Contracts.pdb
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/bin/Debug/net8.0/Entities.dll
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/bin/Debug/net8.0/Shared.dll
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/bin/Debug/net8.0/Shared.pdb
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/bin/Debug/net8.0/Entities.pdb
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/obj/Debug/net8.0/Services.Contracts.csproj.AssemblyReference.cache
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/obj/Debug/net8.0/Services.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/obj/Debug/net8.0/Services.Contracts.AssemblyInfoInputs.cache
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/obj/Debug/net8.0/Services.Contracts.AssemblyInfo.cs
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/obj/Debug/net8.0/Services.Contracts.csproj.CoreCompileInputs.cache
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/obj/Debug/net8.0/Services.70B79F52.Up2Date
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/obj/Debug/net8.0/Services.Contracts.dll
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/obj/Debug/net8.0/refint/Services.Contracts.dll
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/obj/Debug/net8.0/Services.Contracts.pdb
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Services.Contracts/obj/Debug/net8.0/ref/Services.Contracts.dll

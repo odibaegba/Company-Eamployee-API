@@ -1,0 +1,3 @@
+2024-08-14 10:38:39.8439 ERROR Something went wrong: The company with id : c9d4c053-49b6-410c-bc78-2d54a9991871, dosen't exist in the DB
+2024-08-14 10:38:56.8304 ERROR Something went wrong: Employee with Id : c9d4c053-49b6-410c-bc78-2d54a9991870 doesn't exist in the DB
+2024-08-14 11:37:15.6895 ERROR Something went wrong: Type 'Shared.DataTransferObjects.CompanyDto' cannot be serialized. Consider marking it with the DataContractAttribute attribute, and marking all of its members you want serialized with the DataMemberAttribute attribute. Alternatively, you can ensure that the type is public and has a parameterless constructor - all public members of the type will then be serialized, and no attributes will be required.

@@ -1,0 +1,15 @@
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Entities/bin/Debug/net8.0/Entities.deps.json
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Entities/bin/Debug/net8.0/Entities.dll
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Entities/bin/Debug/net8.0/Entities.pdb
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Entities/bin/Debug/net8.0/Shared.dll
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Entities/bin/Debug/net8.0/Shared.pdb
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Entities/obj/Debug/net8.0/Entities.csproj.AssemblyReference.cache
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Entities/obj/Debug/net8.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Entities/obj/Debug/net8.0/Entities.AssemblyInfoInputs.cache
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Entities/obj/Debug/net8.0/Entities.AssemblyInfo.cs
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Entities/obj/Debug/net8.0/Entities.csproj.CoreCompileInputs.cache
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Entities/obj/Debug/net8.0/Entities.csproj.Up2Date
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Entities/obj/Debug/net8.0/Entities.dll
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Entities/obj/Debug/net8.0/refint/Entities.dll
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Entities/obj/Debug/net8.0/Entities.pdb
+/Users/stephenodiba/Documents/Projects/CompanyEmployeeV2/Entities/obj/Debug/net8.0/ref/Entities.dll

@@ -1,0 +1,9 @@
+2024-09-09 12:35:41.6509 ERROR Something went wrong: Ambiguous HTTP method for action - CompanyEmployees.Presentation.Controllers.AuthenticationController.RegisterUser (CompanyEmployees.Presentation). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+2024-09-09 12:48:27.3749 ERROR Something went wrong: The method or operation is not implemented.
+2024-09-09 14:58:50.4148 ERROR Something went wrong: Value cannot be null. (Parameter 's')
+2024-09-09 14:59:03.6455 ERROR Something went wrong: Value cannot be null. (Parameter 's')
+2024-09-09 14:59:05.1073 ERROR Something went wrong: Value cannot be null. (Parameter 's')
+2024-09-09 14:59:08.8946 ERROR Something went wrong: Value cannot be null. (Parameter 's')
+2024-09-09 14:59:12.3253 ERROR Something went wrong: Value cannot be null. (Parameter 's')
+2024-09-09 16:05:53.6785 ERROR Something went wrong: Ambiguous HTTP method for action - CompanyEmployees.Presentation.Controllers.AuthenticationController.Authenticate (CompanyEmployees.Presentation). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+2024-09-09 16:07:36.3645 WARN ValidateUser: Authentication failed. Wrong user name or password.
